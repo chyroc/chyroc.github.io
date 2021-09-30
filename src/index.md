@@ -1,5 +1,6 @@
 --
 title: "hi, chyroc"
+description: "An engineer"
 --
 # hi, chyroc
 
@@ -9,4 +10,7 @@ I am from China and I am currently working in the back-end field using the go la
 
 I love making tools to improve efficiency.
 
-Thanks.
+You can find my other information here:
+
+- [Blog](https://blog.chyroc.cn/)
+- [Projects](https://projects.chyroc.cn/)
